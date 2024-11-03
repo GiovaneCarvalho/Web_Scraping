@@ -7,4 +7,10 @@ class MercadolivreSpider(scrapy.Spider):
     start_urls = ["https://lista.mercadolivre.com.br/celular#D[A:celular]"]
 
     def parse(self, response):
-        pass
+        products = response.css('div.ui-search-result__wrapper')
+
+        for product in products:
+            yield {
+                'categoria' : product.css('span.poly-component__seller::text').get()
+            }
+
