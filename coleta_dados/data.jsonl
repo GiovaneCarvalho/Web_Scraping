@@ -1,58 +1,54 @@
-{"categoria": "Por 123 Comprou "}
-{"categoria": "Por Vikings "}
-{"categoria": "Por Vikings "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Vikings "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Vikings "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Samsung "}
-{"categoria": null}
-{"categoria": "Por Mega Mamute "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Vikings "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por 123 Comprou "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Mobcom "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Mega Mamute "}
-{"categoria": null}
-{"categoria": "Por Apple "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Alpha Omega "}
-{"categoria": null}
-{"categoria": "Por Apple "}
-{"categoria": "Por Mobcom "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Apple "}
-{"categoria": "Por Samsung "}
-{"categoria": "Por Mobcom "}
-{"categoria": "Por Xiaomi "}
-{"categoria": "Por Motorola "}
-{"categoria": "Por Mega Mamute "}
-{"categoria": null}
-{"categoria": "Por Samsung "}
-{"categoria": null}
-{"categoria": "Por Samsung "}
-{"categoria": null}
-{"categoria": null}
-{"categoria": "Por Vikings "}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por 123 Comprou ", "Preco_Antigo": "1.252", "Preco_Novo": "799", "Perc_Off": "36% OFF"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "1.699", "Preco_Novo": "1.106", "Perc_Off": "34% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Vikings ", "Preco_Antigo": "2.565", "Preco_Novo": "1.519", "Perc_Off": "40% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "899", "Preco_Novo": "699", "Perc_Off": "22% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "6.999", "Preco_Novo": "5.046", "Perc_Off": "27% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "899", "Preco_Novo": "586", "Perc_Off": "34% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Vikings ", "Preco_Antigo": "1.365", "Preco_Novo": "791", "Perc_Off": "42% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Vikings ", "Preco_Antigo": "2.581", "Preco_Novo": "1.520", "Perc_Off": "41% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "1.395", "Preco_Novo": "1.060", "Perc_Off": "24% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "1.270", "Preco_Novo": "1.181", "Perc_Off": "7% OFF"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Mobcom ", "Preco_Antigo": "1.559", "Preco_Novo": "1.063", "Perc_Off": "31% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.099", "Preco_Novo": "672", "Perc_Off": "38% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "1.699", "Preco_Novo": "1.106", "Perc_Off": "34% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "1.499", "Preco_Novo": "1.122", "Perc_Off": "25% OFF"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "2.799", "Preco_Novo": "1.831", "Perc_Off": "34% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.299", "Preco_Novo": "799", "Perc_Off": "38% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "2.579", "Preco_Novo": "257", "Perc_Off": "12% OFF"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.699", "Preco_Novo": "1.234", "Perc_Off": "27% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "7.599", "Preco_Novo": "3.748", "Perc_Off": "50% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.499", "Preco_Novo": "4.199", "Perc_Off": "23% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por 123 Comprou ", "Preco_Antigo": "1.252", "Preco_Novo": "799", "Perc_Off": "36% OFF"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "2.299", "Preco_Novo": "1.609", "Perc_Off": "30% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.999", "Preco_Novo": "1.363", "Perc_Off": "31% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Mobcom ", "Preco_Antigo": "1.509", "Preco_Novo": "1.063", "Perc_Off": "29% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.999", "Preco_Novo": "1.305", "Perc_Off": "34% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.053", "Preco_Novo": "4.547", "Perc_Off": "9% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.333", "Preco_Novo": "4.299", "Perc_Off": "19% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.499", "Preco_Novo": "4.199", "Perc_Off": "23% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "3.149", "Preco_Novo": "2.819", "Perc_Off": "10% OFF"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Mega Mamute ", "Preco_Antigo": "1.439", "Preco_Novo": "872", "Perc_Off": "39% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.170", "Preco_Novo": "4.912", "Perc_Off": "5% OFF no Pix"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "1.099", "Preco_Novo": "829", "Perc_Off": "24% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "1.197", "Preco_Novo": "116", "Perc_Off": null}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": "Por Motorola ", "Preco_Antigo": "2.354", "Preco_Novo": "1.979", "Perc_Off": "15% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "899", "Preco_Novo": "699", "Perc_Off": "22% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Foka Ofertas ", "Preco_Antigo": "1.399", "Preco_Novo": "139", "Perc_Off": "27% OFF"}
+{"Marca": "MOTOROLA", "Nome": null, "Vendedor": null, "Preco_Antigo": "1.014", "Preco_Novo": "98", "Perc_Off": null}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": null, "Preco_Antigo": "3.499", "Preco_Novo": "2.274", "Perc_Off": "35% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.206", "Preco_Novo": "4.685", "Perc_Off": "10% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "6.729", "Preco_Novo": "3.802", "Perc_Off": "43% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Alpha Omega ", "Preco_Antigo": "210", "Preco_Novo": "20", "Perc_Off": null}
+{"Marca": "LG", "Nome": null, "Vendedor": null, "Preco_Antigo": "1.247", "Preco_Novo": "120", "Perc_Off": null}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "1.099", "Preco_Novo": "710", "Perc_Off": "35% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.499", "Preco_Novo": "4.199", "Perc_Off": "23% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.899", "Preco_Novo": "5.309", "Perc_Off": "10% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.192", "Preco_Novo": "4.673", "Perc_Off": "9% OFF no Pix"}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Samsung ", "Preco_Antigo": "4.499", "Preco_Novo": "2.944", "Perc_Off": "34% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.658", "Preco_Novo": "4.637", "Perc_Off": "18% OFF no Pix"}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "137", "Preco_Novo": "13", "Perc_Off": null}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "765", "Preco_Novo": "74", "Perc_Off": null}
+{"Marca": null, "Nome": null, "Vendedor": "Por Apple ", "Preco_Antigo": "5.237", "Preco_Novo": "523", "Perc_Off": null}
+{"Marca": null, "Nome": null, "Vendedor": null, "Preco_Antigo": "307", "Preco_Novo": "29", "Perc_Off": null}
+{"Marca": "SAMSUNG", "Nome": null, "Vendedor": "Por Vikings ", "Preco_Antigo": "1.498", "Preco_Novo": "899", "Perc_Off": "40% OFF"}
+{"Marca": null, "Nome": null, "Vendedor": "Por Maxx Na Sua Casa ", "Preco_Antigo": "190", "Preco_Novo": "110", "Perc_Off": "42% OFF"}
